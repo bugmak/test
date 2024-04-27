@@ -1,1 +1,3 @@
-hello
+<?php
+echo "<?php system(whoami)?>";
+?>
